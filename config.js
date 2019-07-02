@@ -23,9 +23,9 @@ module.exports = {
       url: 'https://twitter.com/kreienkaa',
     },
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/akamp',
+      icon: 'fa-instagram',
+      name: 'Instagram',
+      url: 'https://instagram.com/itshappykamper',
     },
     {
       icon: 'fa-envelope-o',
