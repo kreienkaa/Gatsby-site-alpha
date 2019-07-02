@@ -17,7 +17,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Highlights</li>
+        <li>&copy; Andy Kreienkamp</li>
         <li>
           Design: <a href="http://html5up.net">HTML5 UP</a>
         </li>
