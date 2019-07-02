@@ -8,10 +8,10 @@ const IndexPage = () => (
       <div className="container">
         <div className="content">
           <header className="major">
-            <h2>'hmmm...how did you get here?'</h2>
+            <h2>hmmm...how did you get here?</h2>
           </header>
           <section>
-            <h4>that was not a valid URL</h4>
+            <h4>that was not a valid URL. Please hang up and dial again!</h4>
           </section>
         </div>
       </div>
